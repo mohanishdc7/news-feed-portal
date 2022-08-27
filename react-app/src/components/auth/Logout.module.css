@@ -1,0 +1,17 @@
+.logoutButton {
+  float: right;
+  font: inherit;
+  cursor: pointer;
+  background-color: #77002e;
+  color: white;
+  padding: 0.5rem 1.5rem;
+  margin: -10px 20px;
+  border: 1px solid #77002e;
+  border-radius: 4px;
+  font-weight: bold;
+}
+
+.logoutButton:hover {
+  background-color: #a50e48;
+  border-color: #a50e48;
+}
