@@ -58,7 +58,7 @@ The components folder further comprises files that have code designed to impleme
 
 |                  Sign In                   |                     Sign out                     |
 | :----------------------------------------: | :----------------------------------------------: |
-| <img src="assets/Sign In.gif" width="400"> | <img src="Screenshots/Sign out.gif" width="400"> |
+| <img src="assets/Sign In.gif" width="400"> | <img src="assets/Sign out.gif" width="400"> |
 
 - News directory contains three JSX files that holds the logic to add a news item with all the required details, display the entire list of news items acccording to category with the help of fetch API that sends get requests to fetch data from the firebase realtime database, and finally deleting the news item by mapping the news id to delete the only clicked item.
 
